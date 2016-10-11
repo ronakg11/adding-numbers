@@ -1,7 +1,6 @@
 #Java Project
-> ##Base Point for Java Applications
 
-> *Project for creating Java Applications which do common tasks.*
+> *Project for creating Java Applications for adding numbers.*
 
 > **Java 7**
 
@@ -9,6 +8,6 @@
 >> * Log4j
 >> * JUnit
 
-> Java Project for SQA Boot Camp October 3.
+> Java Project for SQA Boot Camp October 3. Created on October 10, 2016.
 
 [Ronak Gavandi](https://github.com/ronakg11/)
